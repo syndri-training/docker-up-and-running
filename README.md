@@ -1,4 +1,4 @@
-# Introduction to Docker
+# Docker Up and Running
 
 A free course on learning development and deployment with Docker.
 
