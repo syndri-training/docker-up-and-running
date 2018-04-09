@@ -17,7 +17,7 @@ This course will get you up and running in minutes and productive in hours. We'l
 
 ## Getting Started
 
-1. Sign up for the free course at [Syndri Training](https://syndritraining.com/p/docker-up-and-running). Alternatively, the videos are provided on Youtube (coming soon).
+1. Sign up for the free course at [Syndri Training](https://syndritraining.com/p/docker-up-and-running). Alternatively, the videos are provided on [Youtube](https://www.youtube.com/playlist?list=PLeZ5_LS4K5sDF8e_SAtFjCvROw6wwthle).
 
 2. Most of the course is done through the command line. This repository contains code samples that supplement the command line training. You can obtain a copy in two ways:
 
